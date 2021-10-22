@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.table {
+  border:1px solid black;
+}
+
+thead {
+  background-color:#DC3545;
+}
+
+th {
+  color:white;
+}
+
+.th {
+  color:black;
+}
